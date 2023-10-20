@@ -1,7 +1,11 @@
-Hello world
+VIBGYOR is an acronym used to remember the sequence of colors in a rainbow. Each letter corresponds to a specific color:
 
-hey there the colors of rainbow is
+V - Violet
+I - Indigo
+B - Blue
+G - Green
+Y - Yellow
+O - Orange
+R - Red
 
-Violet
-Indigo
-BGYOR
+This acronym helps people remember the order of colors that typically appear in a rainbow, with red being on the outer edge and violet on the inner edge.
