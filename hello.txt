@@ -2,4 +2,6 @@ Hello world
 
 hey there the colors of rainbow is
 
-VIBGYOR
+Violet
+Indigo
+BGYOR
